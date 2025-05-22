@@ -1,0 +1,1 @@
+# para-donusturucu-privacy-policy
