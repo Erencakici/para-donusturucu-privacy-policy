@@ -24,7 +24,7 @@ Kullanıcı verisi toplanmadığı için veri güvenliği riski bulunmamaktadır
 
 ## İletişim
 Herhangi bir sorunuz veya geri bildiriminiz için bizimle iletişime geçebilirsiniz:  
-**ornek@email.com**
+**erencakiicii@gmail.com**
 
 ## Güncellemeler
 Gizlilik politikamız zaman zaman güncellenebilir. Değişiklikler bu sayfada yayınlanacaktır.
